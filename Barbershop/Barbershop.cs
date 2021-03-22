@@ -49,6 +49,11 @@ namespace Barbershop
             return true;
         }
 
+        public static bool add_customer(string name, string last_name)
+        {
+            return add_customer(new Customer(name, last_name));
+        }
+
         public static bool add_service(Service service)
         {
             int service_index = find_service(service);
@@ -60,6 +65,12 @@ namespace Barbershop
             services.Add(service);
             return true;
         }
+
+        public static bool add_service(string name, int price)
+        {
+            return add_service(new Service(name, price));
+        }
+        
 
 
 
