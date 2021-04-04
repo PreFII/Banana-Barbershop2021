@@ -1,0 +1,7 @@
+C:\Users\OOP14\Desktop\Banana-Barbershop2021\Barbershop\bin\Debug\Barbershop.exe.config
+C:\Users\OOP14\Desktop\Banana-Barbershop2021\Barbershop\bin\Debug\Barbershop.exe
+C:\Users\OOP14\Desktop\Banana-Barbershop2021\Barbershop\bin\Debug\Barbershop.pdb
+C:\Users\OOP14\Desktop\Banana-Barbershop2021\Barbershop\obj\Debug\Barbershop.csprojAssemblyReference.cache
+C:\Users\OOP14\Desktop\Banana-Barbershop2021\Barbershop\obj\Debug\Barbershop.csproj.CoreCompileInputs.cache
+C:\Users\OOP14\Desktop\Banana-Barbershop2021\Barbershop\obj\Debug\Barbershop.exe
+C:\Users\OOP14\Desktop\Banana-Barbershop2021\Barbershop\obj\Debug\Barbershop.pdb
